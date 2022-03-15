@@ -39,4 +39,4 @@ python3 python3 tools/demo_track.py video -f exps/example/mot/yolox_x_mix_det.py
 
 ## Acknowledgement
 
-A large part of t
+A large part of the code is borrowed from [ByteTrack](https://github.com/ifzhang/ByteTrack).
